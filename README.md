@@ -20,8 +20,7 @@ Work sample dataset for a PhD application, coding design changes in carers’ le
 ## Contents
 - `data/carers_leave_policy_dataset_work_sample.xlsx` — Example dataset (Japan & France)  
 - `VARIABLES.md` — Variable dictionary with definitions and coding rules  
-- `README.md` — Repository overview (this file)  
-- `LICENSE` — All rights reserved. Viewing only.  
+- `README.md` — Repository overview (this file)   
 
 ---
 
