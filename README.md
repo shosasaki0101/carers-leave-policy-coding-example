@@ -18,7 +18,7 @@ Work sample dataset for a PhD application, coding design changes in carers’ le
 ---
 
 ## Contents
-- `data/carers_leave_policy_dataset_work_sample.csv` — Example dataset (Japan & France)  
+- `data/carers_leave_policy_dataset_work_sample.xlsx` — Example dataset (Japan & France)  
 - `VARIABLES.md` — Variable dictionary with definitions and coding rules  
 - `README.md` — Repository overview (this file)  
 - `LICENSE` — All rights reserved. Viewing only.  
@@ -33,6 +33,22 @@ Key categories include:
 - **Leave structure**: duration, periodicity, partial-day or split-block use  
 - **Benefit design**: paid/unpaid, replacement rates, flat-rate amounts, financing source  
 - **Protections**: job protection, anti-retaliation, return rights  
+
+---
+
+## How to View the Dataset
+
+The dataset is provided in **Excel format (`.xlsx`)** for ease of viewing.  
+Please note:
+- GitHub does **not** display the content of `.xlsx` files directly.  
+- To view the data, **click on the file and use the "Download" button**, then open it in Excel (or another spreadsheet program).  
+
+For convenience, a sample row is shown below:
+
+| country_iso3 | year | leave_name_english | leave_name_original | entitlement_basis |
+|--------------|------|--------------------|---------------------|-------------------|
+| JPN          | 2017 | Family Care Leave  | 介護休業            | Law               |
+
 
 ---
 
