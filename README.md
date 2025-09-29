@@ -56,9 +56,3 @@ For convenience, a sample row is shown below:
 All rights reserved © 2025 Sho Sasaki.  
 This dataset is provided for **viewing only**.  
 Reuse, redistribution, or modification in any form is prohibited without explicit written permission.
-
----
-
-## Disclaimer
-This dataset is provided as a **PhD application work sample**.  
-It is **illustrative only** and must not be used as the basis for empirical research.
