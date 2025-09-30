@@ -41,7 +41,7 @@
 | income_replacement_rate        | numeric       | Earnings-related replacement rate as decimal (NA if only flat-rate/unpaid)          |                                                                                  |
 | max_benefit_days               | numeric       | Total number of days for which a monetary benefit is payable                        |                                                                                  |
 | funding_source                 | categorical   | Source of financing for the cash benefit                                            | social_insurance, tax, employer, mixed                                           |
-| administering_agency           | categorical   | Entity administering the entitlement/benefit                                        | social insurance fund, ministry, employment service, employer, mixed             |
+| administering_agency           | categorical   | Entity administering the entitlement/benefit                                        | social_insurance_fund, ministry, employer, mixed             |
 | benefit_taxability_level       | ordinal       | Whether the benefit is taxable (0/0.5/1)                                            |                                                                                  |
 | social_security_note           | string        | Free-text note on social-security treatment during leave                            |                                                                                  |
 | notes_misc                     | string        | Additional information not captured elsewhere                                       |                                                                                  |
