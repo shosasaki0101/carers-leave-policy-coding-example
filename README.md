@@ -1,5 +1,5 @@
 # carers-leave-policy-coding-example
-Work sample dataset for a PhD application, coding design changes in carers’ leave policy in Japan and France. Includes variable dictionary and illustrative data structure. Provided for demonstration only; not a complete dataset. All rights reserved, viewing only.
+Work sample dataset for a PhD application, coding design changes in carers’ leave policy in Japan and France. Includes variable dictionary and illustrative data structure. Provided for demonstration only; not a complete dataset.
 
 ---
 
@@ -53,5 +53,3 @@ For convenience, a sample row is shown below:
 
 ## License
 All rights reserved © 2025 Sho Sasaki.  
-This dataset is provided for **viewing only**.  
-Reuse, redistribution, or modification in any form is prohibited without explicit written permission.
