@@ -53,3 +53,4 @@ For convenience, a sample row is shown below:
 
 ## License
 All rights reserved © 2025 Sho Sasaki.  
+Reuse, redistribution, or modification is prohibited without explicit written permission.
